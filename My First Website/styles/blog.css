@@ -1,0 +1,9 @@
+div{
+    background-color: lightsalmon;
+    margin: auto;
+    padding: 10px;
+}
+h3{
+    text-transform: capitalize;
+    text-align: center;
+}
